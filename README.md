@@ -1,0 +1,2 @@
+# WeChatEradicateVirus
+微信消灭病毒小游戏的一个小外挂
